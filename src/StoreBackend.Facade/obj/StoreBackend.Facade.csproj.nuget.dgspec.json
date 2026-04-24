@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj",
         "projectName": "StoreBackend.DomainService",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,23 +26,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj"
               }
             }
           }
@@ -356,14 +357,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
         "projectName": "StoreBackend.Domain",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -378,6 +379,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -695,14 +697,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
         "projectName": "StoreBackend.Dto",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -717,6 +719,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1034,14 +1037,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj",
         "projectName": "StoreBackend.Exceptions",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\StoreBackend.Exceptions.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Exceptions\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1056,6 +1059,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1373,14 +1377,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
         "projectName": "StoreBackend.Facade",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Facade\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1395,20 +1399,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.DomainService\\StoreBackend.DomainService.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj"
               }
             }
           }
@@ -1722,14 +1727,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj",
         "projectName": "StoreBackend.Infraestructure",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\StoreBackend.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1744,14 +1749,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive - Universidad de Costa Rica\\V Semestre\\Desarrollo de Software IV\\Tareas\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Domain\\StoreBackend.Domain.csproj"
               }
             }
           }
