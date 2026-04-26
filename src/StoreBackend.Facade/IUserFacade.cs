@@ -1,0 +1,9 @@
+using StoreBackend.Dto;
+
+namespace StoreBackend.Facade
+{
+    public interface IUserFacade
+    {
+        Task<IEnumerable<UserDto>> GetUsersAsync();
+    }
+}

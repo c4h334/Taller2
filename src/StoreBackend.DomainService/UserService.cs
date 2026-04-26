@@ -1,34 +1,24 @@
-using System;
 using StoreBackend.Domain.Entities;
-using StoreBackend.Dto;
-using StoreBackend.Exceptions;
-using StoreBackend.Infrastructure.Repositories;
+using StoreBackend.Infrastructure;
 
-namespace StoreBackend.DomainService;
-
-public class UserService : IUserService
+namespace StoreBackend.DomainService
 {
-    private readonly IUserRepository _userRepository;
-
-    public UserService(IUserRepository userRepository)
+    public class UserService : IUserService
     {
-        _userRepository = userRepository;
-    }
+        private readonly IUserRepository _userRepository;
 
-    public async Task<List<UserDto>> GetAllUsersAsync()
-    {
-        var users = await _userRepository.GetAllAsync();
-
-
-        var activeUsers = users
-            .Where(u => !string.IsNullOrWhiteSpace(u.Email))
-            .ToList();
-
-        return activeUsers.Select(u => new UserDto
+        public UserService(IUserRepository userRepository)
         {
-            ExternalId = u.ExternalId,
-            Username = u.Username,
-            Email = u.Email
-        }).ToList();
+            _userRepository = userRepository;
+        }
+
+        public async Task<IEnumerable<User>> GetUsersAsync()
+        {
+            var users = await _userRepository.GetUsersAsync();
+
+            // Aquí va la regla de negocio si el profe la pide
+
+            return users;
+        }
     }
 }

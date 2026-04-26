@@ -2,10 +2,12 @@ using System;
 using StoreBackend.Domain.Entities;
 using StoreBackend.Dto;
 
-namespace StoreBackend.DomainService;
+using StoreBackend.Domain.Entities;
 
-public interface IUserService
+namespace StoreBackend.DomainService
 {
-    Task<List<UserDto>> GetAllUsersAsync();
+    public interface IUserService
+    {
+        Task<IEnumerable<User>> GetUsersAsync();
+    }
 }
-

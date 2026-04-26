@@ -3263,43 +3263,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gaboc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Api\\StoreBackend.Api.csproj",
+      "projectUniqueName": "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Api\\StoreBackend.Api.csproj",
       "projectName": "StoreBackend.Api",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Api\\StoreBackend.Api.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Api\\obj\\",
+      "projectPath": "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Api\\StoreBackend.Api.csproj",
+      "packagesPath": "C:\\Users\\gaboc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gaboc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
+            "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj": {
+              "projectPath": "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Dto\\StoreBackend.Dto.csproj"
             },
-            "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {
-              "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\PrimerSemestre2026\\Software\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj"
+            "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj": {
+              "projectPath": "C:\\Users\\gaboc\\OneDrive - Universidad de Costa Rica\\Universidad\\UCR\\IV Semestre (el regreso)\\Desarrollo de Software IV\\Taller2\\Taller2\\src\\StoreBackend.Facade\\StoreBackend.Facade.csproj"
             }
           }
         }
@@ -3348,7 +3340,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
