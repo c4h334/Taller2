@@ -4,6 +4,6 @@ namespace StoreBackend.Infrastructure
 {
     public interface IUserRepository
     {
-        Task<IEnumerable<User>> GetUsersAsync();
+        Task<IEnumerable<User>> GetAllUsersAsync();
     }
 }

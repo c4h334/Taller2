@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoreBackend.Exceptions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+191e98cde42da03986bece1d46b3e526aa44a4aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae2fc8995b85d351284b0e372b70d11a6da685f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoreBackend.Exceptions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoreBackend.Exceptions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

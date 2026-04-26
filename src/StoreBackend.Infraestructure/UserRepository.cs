@@ -12,7 +12,7 @@ namespace StoreBackend.Infrastructure
             _context = context;
         }
 
-        public async Task<IEnumerable<User>> GetUsersAsync()
+        public async Task<IEnumerable<User>> GetAllUsersAsync()
         {
             return await _context.Users.ToListAsync();
         }

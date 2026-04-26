@@ -7,8 +7,9 @@ using StoreBackend.Facade;
 
 namespace StoreBackend.Api.Controllers
 {
-    [Route("api/products")]
+    
     [ApiController]
+    [Route("api/products")]
     public class ProductController : ControllerBase
     {
         private readonly IProductFacade productFacade;

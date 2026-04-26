@@ -12,9 +12,9 @@ namespace StoreBackend.Facade
             _userService = userService;
         }
 
-        public async Task<IEnumerable<UserDto>> GetUsersAsync()
+        public async Task<IEnumerable<UserDto>> GetAllUsersAsync()
         {
-            var users = await _userService.GetUsersAsync();
+            var users = await _userService.GetAllUsersAsync();
 
             return users.Select(user => new UserDto
             {

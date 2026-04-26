@@ -8,6 +8,6 @@ namespace StoreBackend.DomainService
 {
     public interface IUserService
     {
-        Task<IEnumerable<User>> GetUsersAsync();
+        Task<IEnumerable<User>> GetAllUsersAsync();
     }
 }

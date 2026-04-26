@@ -12,9 +12,9 @@ namespace StoreBackend.DomainService
             _userRepository = userRepository;
         }
 
-        public async Task<IEnumerable<User>> GetUsersAsync()
+        public async Task<IEnumerable<User>> GetAllUsersAsync()
         {
-            var users = await _userRepository.GetUsersAsync();
+            var users = await _userRepository.GetAllUsersAsync();
 
             // Aquí va la regla de negocio si el profe la pide
 

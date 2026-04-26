@@ -4,6 +4,6 @@ namespace StoreBackend.Facade
 {
     public interface IUserFacade
     {
-        Task<IEnumerable<UserDto>> GetUsersAsync();
+        Task<IEnumerable<UserDto>> GetAllUsersAsync();
     }
 }

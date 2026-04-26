@@ -5,7 +5,7 @@ using StoreBackend.Facade;
 namespace StoreBackend.Api.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/users")]
 public class UserController : ControllerBase
 {
     private readonly IUserFacade _userFacade;
